@@ -1,0 +1,13 @@
+.correcto {
+  border-color: green;
+  box-shadow: 0 0 10px green;
+}
+
+.incorrecto {
+  border-color: red;
+  box-shadow: 0 0 10px red;
+}
+
+.puntero {
+	cursor: pointer;
+}
